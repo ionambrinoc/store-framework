@@ -4,10 +4,17 @@
       "rich-text",
       "info-card#button-right",
       "info-card#button-left",
-      "flex-layout.row"
+      "flex-layout.row#one",
+      "shelf#myshelf"
     ]
   },
-  "flex-layout.row":{
+  "flex-layout.row#one":{
+    "children": [
+      "info-card#rethink",
+      "flex-layout.col"
+    ]
+  },
+  "flex-layout.row#two":{
     "children": [
       "info-card#rethink",
       "flex-layout.col"
