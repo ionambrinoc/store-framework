@@ -28,9 +28,17 @@
   },
   "product-brand": {
     "props": {
-      "displayMode": "logo"
+      "displayMode": "logo",
+      "height": "30"
     }
   },
+  "sku-selector": {
+    "props": {
+      "initialSelection": "empty",
+      "showValueForVariation": "image",
+      "showVariationsErrorMessage": true
+    }
+  }
   "flex-layout.col#right": {
     "children": [
       "product-name",
