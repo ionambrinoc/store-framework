@@ -38,7 +38,7 @@
       "showValueForVariation": "image",
       "showVariationsErrorMessage": true
     }
-  }
+  },
   "flex-layout.col#right": {
     "children": [
       "product-name",
