@@ -20,7 +20,7 @@
               "noFollow": false,
               "tagTitle": "Shop",
               "text": "Shop"
-            },
+            }
           },
         "blocks": ["vtex.menu@2.x:submenu#major"]
     },
@@ -34,7 +34,7 @@
               "noFollow": false,
               "tagTitle": "Shop",
               "text": "Shop"
-            },
+            }
           },
         "blocks": ["vtex.menu@2.x:submenu#small"]
     },
@@ -48,7 +48,7 @@
               "noFollow": false,
               "tagTitle": "Shop",
               "text": "Shop"
-            },
+            }
           },
         "blocks": ["vtex.menu@2.x:submenu#electronics"]
     },
